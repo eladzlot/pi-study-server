@@ -9,6 +9,8 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
+    "blue-tape": "^0.1.10",
+    "pow-mongodb-fixtures": "^0.13.0",
     "supertest": "^1.1.0"
   },
   "dependencies": {
@@ -16,7 +18,7 @@
     "express": "^4.13.3",
     "express-jwt": "^3.1.0",
     "jsonwebtoken": "^5.4.0",
-    "mongoose": "^4.1.11",
+    "mongodb": "^2.0.46",
     "swig": "^1.4.2",
     "useragent": "^2.1.7"
   }
